@@ -1,0 +1,15 @@
+#box{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  font-size: 13.1rem;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(59, 195, 59);
+  border-radius: 15px;
+  align-items: center;
+  position: relative;
+}
+body{
+  margin: 0;
+}
